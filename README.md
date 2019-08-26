@@ -15,6 +15,13 @@ brew install pumba
 ## Steps
 
 ## Install Docker
+On MacOS
+Download the Docker for Desktop for Mac from DockerHub
+Once the .dmg file is downloaded, click and install it. Follow the instructions.
+Then open a command line to check
+docker version
+if you get a reply, then docker has been installed properly
+docker 
 
 ### Run Docker script to build parity
 
